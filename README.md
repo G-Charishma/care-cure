@@ -1,5 +1,5 @@
-**🩺 Care&Cure
-**Your Health. Your Care. One Platform.
+🩺 Care&Cure
+Your Health. Your Care. One Platform.
 
 Care&Cure is a smart healthcare and online pharmacy platform designed to make medicine access and healthcare discovery easier and more convenient.
 
